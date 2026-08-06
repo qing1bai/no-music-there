@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.qingbai1.sounder.qing1"
+        applicationId "com.qingbai.sounder.qing2"
         minSdk 23
         targetSdk 36
         versionCode 1
